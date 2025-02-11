@@ -6,7 +6,7 @@ Web Developer
 
 I'm a third-year Computer Science student at Kasetsart University with a passion for programming, coding, designing, and everything related to websites.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Chon Buri , Thailand
 * 🖥️  See my portfolio at [Myportfolio](http://peaceful-pothos-b6babf.netlify.app/)
 * ✉️  You can contact me at [punnakan2509@gmail.com](mailto:punnakan2509@gmail.com)
 * 🧠  I'm learning Backend , next js
