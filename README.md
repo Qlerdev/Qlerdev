@@ -1,4 +1,4 @@
-Hi 👋 My name is Punnakan Punsiri
+Hi There! 👋 My name is Punnakan Punsiri
 =================================
 
 Web Developer
@@ -7,7 +7,7 @@ Web Developer
 I'm a third-year Computer Science student at Kasetsart University (Sriracha) with a passion for programming, coding, designing, and everything related to websites.
 
 * 🌍  I'm based in Chon Buri , Thailand
-* 🖥️  See my portfolio at [Myportfolio](http://peaceful-pothos-b6babf.netlify.app/)
+* 🖥️  See my portfolio at [My portfolio](http://peaceful-pothos-b6babf.netlify.app/)
 * ✉️  You can contact me at [punnakan2509@gmail.com](mailto:punnakan2509@gmail.com)
 * 🧠  I'm learning Backend , next js
 
