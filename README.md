@@ -4,7 +4,7 @@ Hi 👋 My name is Punnakan Punsiri
 Web Developer
 -------------
 
-I'm a third-year Computer Science student at Kasetsart University with a passion for programming, coding, designing, and everything related to websites.
+I'm a third-year Computer Science student at Kasetsart University (Sriracha) with a passion for programming, coding, designing, and everything related to websites.
 
 * 🌍  I'm based in Chon Buri , Thailand
 * 🖥️  See my portfolio at [Myportfolio](http://peaceful-pothos-b6babf.netlify.app/)
