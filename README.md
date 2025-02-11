@@ -1,6 +1,4 @@
-Hi There! 👋 My name is Punnakan Punsiri 
-
-You can all me "Q"
+Hi There! 👋 My name is Punnakan Punsiri , you can all me "Q".
 =================================
 
 Web Developer
