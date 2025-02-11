@@ -11,7 +11,7 @@ I'm a third-year Computer Science student at Kasetsart University (Sriracha) wit
 * 🌍  I'm based in Chon Buri , Thailand
 * 🖥️  See my portfolio at [My portfolio](http://peaceful-pothos-b6babf.netlify.app/)
 * ✉️  You can contact me at [punnakan2509@gmail.com](mailto:punnakan2509@gmail.com)
-* 🧠  I'm learning Backend , next js
+* 🧠  I'm learning Backend , Next.js
 
 ### Skills
 
