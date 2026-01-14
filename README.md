@@ -70,7 +70,7 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=qlerdev&layout=compact&theme=transparent&hide_border=true&v=2)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/default/0-profile-details.svg)
 
 ### 🤝 Connect with me
 
