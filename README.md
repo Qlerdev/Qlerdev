@@ -25,7 +25,9 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=qlerdev](https://github.com/anuraghazra/github-readme-stats" width="36" height="36" alt="JavaScript" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -96,7 +98,5 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
 
 ### 📊 Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlerdev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qlerdev&layout=compact&theme=transparent&hide_border=true)
 
