@@ -94,8 +94,4 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
   </a>
 </p>
 
-### 📊 Github Stats
-<a href="https://github.com/qlerdev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlerdev&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="Top Languages" />
-</a>
 
