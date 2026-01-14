@@ -94,4 +94,9 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
   </a>
 </p>
 
+### 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlerdev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
