@@ -11,10 +11,10 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
 
 ---
 
-- 🌍  I'm based in **Chon Buri, Thailand**
-- 🖥️  See my portfolio at **[My portfolio](http://peaceful-pothos-b6babf.netlify.app/)**
-- ✉️  You can contact me at **[punnakan2509@gmail.com](mailto:punnakan2509@gmail.com)**
-- 🧠  I'm currently learning **Backend** and **Next.js**
+- 🌍  I'm based in **Chon Buri, Thailand**
+- 🖥️  See my portfolio at **[My portfolio](http://peaceful-pothos-b6babf.netlify.app/)**
+- ✉️  You can contact me at **[punnakan2509@gmail.com](mailto:punnakan2509@gmail.com)**
+- 🧠  I'm currently learning **Backend** and **Next.js**
 
 ---
 
@@ -25,9 +25,7 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -70,6 +68,10 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
   </a>
 </p>
 
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qlerdev&layout=compact&theme=transparent&hide_border=true)
+
 ### 🤝 Connect with me
 
 <p align="left">
@@ -95,8 +97,3 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
     </picture>
   </a>
 </p>
-
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qlerdev&layout=compact&theme=transparent&hide_border=true)
-
