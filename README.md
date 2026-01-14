@@ -68,10 +68,6 @@ I'm a third-year Computer Science student at **Kasetsart University (Sriracha)**
   </a>
 </p>
 
-### 📊 Most Used Languages
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/default/0-profile-details.svg)
-
 ### 🤝 Connect with me
 
 <p align="left">
